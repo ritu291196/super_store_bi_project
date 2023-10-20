@@ -1,23 +1,49 @@
-**Summary:** In this project, I analysed the sales data of Super Store, a small retail business in the US, and identified the best selling and most profitable categories, sub-categories, customer segments, regions, and cities. I also used time series analysis and forecasting techniques to predict the future sales and profit trends of Super Store. I used SQL, Microsoft excel, Power Bi tool to perform the data manipulation, visualization, and modelling tasks. The main findings and recommendations are:
+# Super Store Sales Analysis with Power BI
 
--   The most profitable category is Technology, followed by Furniture and Office Supplies. The best selling sub-category is Phones, followed by Chairs and Storage.
--   The most profitable customer segment is Home Office, followed by Corporate and Consumer. The preferred ship mode is Standard Class, followed by Second Class and First Class.
--   The most profitable region is West, followed by East and South. The city with the highest number of sales is New York City, followed by Los Angeles and Seattle.
--   The sales and profit of Super Store show a seasonal pattern, with peaks in November and December, and dips in January and February. The overall trend is positive, indicating a growing business.
--   The forecast for the next 12 months shows that the sales and profit will continue to increase, reaching a peak in December 2024. The forecast also shows that the sales and profit will be higher in the West region than in the other regions.
+![Super Store Sales Dashboard](./path_to_your_image_folder/super_store_sales_dashboard.png)
 
-![](media/1292d38d89e400ce2b749ccbbf92bffe.jpg)
+## Table of Contents
 
-![](media/6d16d276b11625f46c0da033eb27928a.jpg)
+- [Introduction](#introduction)
+- [Data Source and Preparation](#data-source-and-preparation)
+- [Key Insights Derived](#key-insights-derived)
+- [Power BI Dashboards Explained](#power-bi-dashboards-explained)
+- [Conclusion](#conclusion)
+- [Tools and Technologies](#tools-and-technologies)
 
-![](media/aae631134c66d8b385083fbed21cb47e.jpg)
+## Introduction
 
-![](media/e2667559563060bf6d14bd7bd9bbdb20.jpg)
+This project presents a detailed sales analysis for the Super Store using Microsoft Power BI. Through an interactive dashboard, the aim is to better understand sales patterns, identify high-performing products, and highlight potential areas for growth.
 
-**Recommendations:** Based on the analysis and forecast, I recommend that Super Store should:
+## Data Source and Preparation
 
--   Focus more on selling Technology products, especially Phones, as they have the highest profit margin and demand.
--   Target more Home Office customers, as they have the highest profit per order and loyalty.
--   Expand more in the West region, as it has the highest potential for growth and profitability.
--   Optimize the inventory management and shipping costs, especially during the peak season in November and December.
--   Monitor the sales and profit trends regularly and adjust the marketing strategies accordingly.
+The data for this project has been sourced from the Super Store's sales database. Before importing the data into Power BI, it was cleaned and transformed using SQL to ensure consistency and accuracy.
+
+## Key Insights Derived
+
+From our analysis, we discovered:
+- The Technology category was the most profitable.
+- Sales peaked during November and December.
+- The West region showed the most promise in terms of growth.
+
+## Power BI Dashboards Explained
+
+1. **Super Store Sales Dashboard**: This provides an overview of total sales, segmented by shipping mode, product category, and customer segment.
+   ![Super Store Sales Dashboard](./path_to_your_image_folder/super_store_sales_dashboard.png)
+   
+2. **Monthly Sales and Profit**: This chart shows the monthly trend of sales and profits over the last two years.
+   ![Monthly Sales and Profit](./path_to_your_image_folder/monthly_sales_profit.png)
+   
+3. **Sales and Profit by States**: A geographical representation of sales and profits by state, providing a visual representation of regional performance.
+   ![Sales and Profit by States](./path_to_your_image_folder/sales_profit_states.png)
+
+## Conclusion
+
+The Power BI dashboard provides valuable insights into the sales patterns of the Super Store. By focusing on high-performing categories and expanding in promising regions, the Super Store can enhance its profitability and growth.
+
+## Tools and Technologies
+
+- **Power BI**: Used for data visualization and dashboard creation.
+- **SQL**: Used for data preparation and transformation.
+- **Excel**: Assisted in preliminary data analysis.
+
