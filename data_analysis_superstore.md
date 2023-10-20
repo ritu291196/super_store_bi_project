@@ -1,6 +1,6 @@
 # Super Store Sales Analysis with Power BI
 
-![Super Store Sales Dashboard](./path_to_your_image_folder/super_store_sales_dashboard.png)
+![Super Store Sales Dashboard](./store_images/1.jpg)
 
 ## Table of Contents
 
@@ -29,13 +29,16 @@ From our analysis, we discovered:
 ## Power BI Dashboards Explained
 
 1. **Super Store Sales Dashboard**: This provides an overview of total sales, segmented by shipping mode, product category, and customer segment.
-   ![Super Store Sales Dashboard](./path_to_your_image_folder/super_store_sales_dashboard.png)
+   ![Super Store Sales Dashboard](./store_images/1.jpg)
    
 2. **Monthly Sales and Profit**: This chart shows the monthly trend of sales and profits over the last two years.
-   ![Monthly Sales and Profit](./path_to_your_image_folder/monthly_sales_profit.png)
+   ![Monthly Sales and Profit](./store_images/2.jpg)
    
 3. **Sales and Profit by States**: A geographical representation of sales and profits by state, providing a visual representation of regional performance.
-   ![Sales and Profit by States](./path_to_your_image_folder/sales_profit_states.png)
+   ![Sales and Profit by States](./store_images/3.jpg)
+
+   ![Sales and Profit by States](./store_images/4.jpg)
+
 
 ## Conclusion
 
